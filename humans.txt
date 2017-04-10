@@ -1,0 +1,30 @@
+/* TEAM */
+  Web Designer / Web Developer / SEO: Volgasov Roman
+  VK: #romanvolgasov
+  From: Kaliningrad
+
+/* THANKS */
+  All visitors
+
+/* SITE */
+  Last update: 2017/01/12
+  Language: Russian
+  Doctype: HTML5
+  IDE: ATOM
+  GRAPHICS EDITOR: Photoshop
+  IMAGE COMPRESSOR: FileOptimizer
+
+/* CHANGELOG */
+<!-- 2017/01/09 -->
+- Сжал изображения и PDF FileOptimizer.
+- С Google Fonts отключил загрузку следующих начертаний шрифта Rubik (light 300 italic, medium 500, medium 500 italic, bold 700 italic, black 900, black 900 italic)
+<!-- 2017/01/10 -->
+- Исправил орфографические ошибки в тексте.
+- Добавил к якорям атрибут rel="nofollow".
+<!-- 2017/01/12 -->
+- Содержание reset.css добавлено в файл bootstrap.min.css.
+- В файл bootstrap.min.js добавлен код Picturefill
+- Адаптивные изображения. Все изображения были замененны на оптимизированные версии по ширине экрана, итого на каждую картинку пришлось по 4 копии.
+- Улучшена производительность сайта.
+<!-- 2017/02/07 -->
+- На страницы мансардных окон добавленно видео сравнения популярных товарных производителей.
